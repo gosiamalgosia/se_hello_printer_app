@@ -11,6 +11,9 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   # aktywowanie hermetycznego środowiska
   $ source .venv/bin/activate
+
+  make deps
+  # lub
   $ pip install -r requirements.txt
   $ pip install -r test_requirements.txt
 
@@ -26,6 +29,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # jako zwykły program
   $ python main.py
 
+  make run
   # albo:
   $ PYTHONPATH=. FLASK_APP=hello_world flask run
   ```
@@ -33,6 +37,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Uruchamianie testów (see: http://doc.pytest.org/en/latest/capture.html):
 
   ```
+  make test
+  # lub
   $ PYTHONPATH=. py.test
   $ PYTHONPATH=. py.test --verbose -s
   ```
@@ -47,7 +53,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
