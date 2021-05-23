@@ -73,8 +73,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # logi:
   $ docker logs hello-world-printer-dev
 
+  # nie restartujemy, zatrzymujemy, kasujemy i uruchamiamy na nowo !!
   $ docker stop hello-world-printer-dev
   $ docker start hello-world-printer-dev
+  $ docker rm hello-world-printer-dev
+  $ make docker_run
+
+
   ```
 
 # Pomocnicze
