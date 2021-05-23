@@ -59,8 +59,22 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Integracja z TravisCI:
 
+
   ```
-  # miejsce na twoje notatki
+  # uruchamiamy terminal z SUDO !!!
+  $ make docker_run
+
+  # czy app działa poprawnie
+  $ curl 127.0.0.1:5000
+
+  #czy docker uruchomiony:
+  $ docker ps -a    
+
+  # logi:
+  $ docker logs hello-world-printer-dev
+
+  $ docker stop hello-world-printer-dev
+  $ docker start hello-world-printer-dev
   ```
 
 # Pomocnicze
