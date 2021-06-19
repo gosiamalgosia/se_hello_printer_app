@@ -58,7 +58,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 
 - Integracja z TravisCI:
-
+https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master
 
   ```
   # uruchamiamy terminal z SUDO !!!
@@ -109,3 +109,5 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
+## Monitoring w statuscake.com
+https://app.statuscake.com/UptimeStatus.php?tid=6003177
