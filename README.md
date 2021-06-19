@@ -1,3 +1,9 @@
+### Status TravisCI:
+[![Build Status](https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/gosiamalgosia/se_hello_printer_app)
+
+### Monitoring StatusCake:
+![Build Status](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=2)
+
 # Simple Flask App
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
@@ -58,8 +64,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 
 
-### Status TravisCI:
-[![Build Status](https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/gosiamalgosia/se_hello_printer_app)
+
 
   ```
   # uruchamiamy terminal z SUDO !!!
@@ -112,6 +117,3 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 ## Monitoring w statuscake.com
 https://app.statuscake.com/UptimeStatus.php?tid=6003177
-
-### Monitoring StatusCake:
-![Build Status](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=1)
