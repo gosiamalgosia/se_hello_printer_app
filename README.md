@@ -57,9 +57,9 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ source .venv/bin/activate
   ```
 
-- Integracja z TravisCI:
-https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master
 
+### Status TravisCI:
+[![Build Status](https://api.travis-ci.com/gosiamalgosia/se_hello_printer_app.png)](https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master)
   ```
   # uruchamiamy terminal z SUDO !!!
   $ make docker_run
@@ -111,3 +111,6 @@ https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master
   ```
 ## Monitoring w statuscake.com
 https://app.statuscake.com/UptimeStatus.php?tid=6003177
+
+### Monitoring StatusCake:
+[![Build Status](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=1.png)](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=1)
