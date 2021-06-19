@@ -1,8 +1,10 @@
+# Simple Flask App
+
 ### Status TravisCI:
 [![Build Status](https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/gosiamalgosia/se_hello_printer_app)
 
 ### Monitoring StatusCake:
-![Build Status](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=2)
+[![Status Uptime](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=2)](https://app.statuscake.com/button/index.php?Track=6003177)
 
 
   ```
