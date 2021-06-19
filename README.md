@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/gosiamalgosia/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/gosiamalgosia/se_hello_printer_app)
 
 ### Monitoring StatusCake:
-[![Status Uptime](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=2)](https://app.statuscake.com/button/index.php?Track=6003177)
+[![Status Uptime](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=2)](https://app.statuscake.com/UptimeStatus.php?tid=6003177)
 
 
   ```
