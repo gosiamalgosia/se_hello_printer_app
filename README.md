@@ -4,12 +4,6 @@
 ### Monitoring StatusCake:
 ![Build Status](https://app.statuscake.com/button/index.php?Track=6003177&Days=1&Design=2)
 
-# Simple Flask App
-
-Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
-o Continuous Integration, Continuous Delivery i Continuous Deployment.
-
-- W projekcie wykorzystamy virtual environment, dla utworzenia hermetycznego środowisko dla aplikacji:
 
   ```
   # tworzymy hermetyczne środowisko dla bibliotek aplikacji:
